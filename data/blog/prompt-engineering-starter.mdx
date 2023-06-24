@@ -19,7 +19,7 @@ canonicalUrl: https://www.google.com
 
 <TOCInline toc={props.toc} asDisclosure toHeading={3} />
 
-There’s an old adage that computers will only do what you tell them to do. **Throw that advice out the window. Prompt engineering inverts this wisdom**. It’s like programming in natural language against a non-deterministic computer that will do anything that you haven’t guided it away from doing.
+There’s an old adage that comp will only do what you tell them to do. **Throw that advice out the window. Prompt engineering inverts this wisdom**. It’s like programming in natural language against a non-deterministic computer that will do anything that you haven’t guided it away from doing.
 
 A large language model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence. It does this by assigning a probability to likely next sequences and then samples from those to choose one. The process repeats until some stopping criteria is met.
 Large language models learn these probabilities by training on large corpuses of text. A consequence of this is that the models will cater to some use cases better than others (e.g. if it’s trained on GitHub data, it’ll understand the probabilities of sequences in source code really well). Another consequence is that the model may generate statements that seem plausible, but are actually just random without being grounded in reality.
