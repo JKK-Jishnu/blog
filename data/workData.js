@@ -3,7 +3,7 @@ const workData = [
     company: 'Vualapp',
     role: [
       {
-        title: 'Full-stack developer',
+        title: 'Data Engineer',
         monthYearStart: 'Aug 2022',
         monthYearEnd: 'April 2023',
         jobDescription: [

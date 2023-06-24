@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Tony Antony | Engineer, Full-stack developer',
-  author: 'Tony Antony',
-  headerTitle: 'Tony Antony',
-  description: "Tony Antony's Digital Garden.",
+  title: 'JKK | Engineer, Data Engineer',
+  author: 'JKK',
+  headerTitle: 'JKK',
+  description: "JKK's Digital Garden.",
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.tonyantony.xyz',

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Tony Antony | Engineer, Full-stack developer</title>
+      <title>JKK | Engineer, Data Engineer</title>
       <link>https://www.tonyantony.xyz/blog</link>
-      <description>Tony Antony&#39;s Digital Garden.</description>
+      <description>JKK&#39;s Digital Garden.</description>
       <language>en-us</language>
-      <managingEditor>tonyantony300@gmail.com (Tony Antony)</managingEditor>
-      <webMaster>tonyantony300@gmail.com (Tony Antony)</webMaster>
+      <managingEditor>tonyantony300@gmail.com (JKK)</managingEditor>
+      <webMaster>tonyantony300@gmail.com (JKK)</webMaster>
       <lastBuildDate>Wed, 26 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.tonyantony.xyz/tags/react/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     <description>
 As web applications have become more complex, so has the need for more sophisticated front-end development tools. Front-end frameworks like React and...</description>
     <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
-    <author>tonyantony300@gmail.com (Tony Antony)</author>
+    <author>tonyantony300@gmail.com (JKK)</author>
     <category>Frameworks</category><category>React</category><category>Vue</category>
   </item>
 

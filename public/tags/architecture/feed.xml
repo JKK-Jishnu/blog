@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Tony Antony | Engineer, Full-stack developer</title>
+      <title>JKK | Engineer, Data Engineer</title>
       <link>https://www.tonyantony.xyz/blog</link>
-      <description>Tony Antony&#39;s Digital Garden.</description>
+      <description>JKK&#39;s Digital Garden.</description>
       <language>en-us</language>
-      <managingEditor>tonyantony300@gmail.com (Tony Antony)</managingEditor>
-      <webMaster>tonyantony300@gmail.com (Tony Antony)</webMaster>
+      <managingEditor>tonyantony300@gmail.com (JKK)</managingEditor>
+      <webMaster>tonyantony300@gmail.com (JKK)</webMaster>
       <lastBuildDate>Mon, 08 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.tonyantony.xyz/tags/architecture/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -18,7 +18,7 @@
 Here I present a collection of notes/snippets/ideas which I think is high quality.
 Original ideas are generated when someone understand something ext...</description>
     <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
-    <author>tonyantony300@gmail.com (Tony Antony)</author>
+    <author>tonyantony300@gmail.com (JKK)</author>
     <category>startup</category><category>tech</category><category>architecture</category>
   </item>
 
